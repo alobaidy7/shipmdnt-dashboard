@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+body{
+    background-color: #F5F6FA;
+}
+
+/* Font Weights Start */
+.light{
+    font-weight: 100;
+}
+
+.regular{
+    font-weight: 400;
+}
+
+.medium{
+    font-weight: 500;
+}
+
+.extra-bold{
+    font-weight: 800;
+}
+
+/* Font Weights End */
+
+
+/* Special Colors Start */
+.gray{
+    color: #929292;
+}
+
+.bg-gray{
+    background-color: #929292;
+}
+
+.bg-blue{
+    background-color: #377DFF;
+}
+
+.blue{
+    color:#377DFF;
+}
+
+.bg-white{
+    background-color: #F5F6FA;
+}
+
+.bg-profile{
+    background-color: rgba(54, 159, 255,0.2); 
+
+}
+
+select{
+    background-color: #F5F6FA;
+}
+
+/* Special Colors End */
+
+
+
+input[type=text],input[type=password], input[type=number]{
+    border: solid black 1px;
+    border-radius: 5px;
+    background-color: #F5F6FA;
+}
