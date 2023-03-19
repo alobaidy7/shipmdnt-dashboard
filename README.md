@@ -1,4 +1,6 @@
-# Admin panel with React.js for virtual shipment mobile application, the admin panel contain validations, authentication, authorizations, CRUD operations for API, search operation.
+# Admin Panel for Shipment App
+
+Admin panel with React.js for virtual shipment mobile application, the admin panel contain validations, authentication, authorizations, CRUD operations for API, search operation.
 
 
 Technologies we used in this project :
